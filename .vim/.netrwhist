@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =0
+let g:netrw_dirhist_0='/home/ubuntu/owasp-test/openapi_specs'
+let g:netrw_dirhist_9='/home/ubuntu/dockerizing-django/web'
+let g:netrw_dirhist_8='/home/ubuntu/lab'
+let g:netrw_dirhist_7='/'
+let g:netrw_dirhist_6='/home'
+let g:netrw_dirhist_5='/home/ubuntu'
+let g:netrw_dirhist_4='/home/ubuntu/noname'
+let g:netrw_dirhist_3='/home/ubuntu'
+let g:netrw_dirhist_2='/home/ubuntu/noname'
+let g:netrw_dirhist_1='/etc/nginx/sites-enabled'
